@@ -1,2 +1,2 @@
 # vim-colors-garbage
-vim colorscheme
+![rules](vim-colors-garbage.png)
